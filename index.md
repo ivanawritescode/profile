@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to Ivana Writes Code
 
-You can use the [editor on GitHub](https://github.com/ivanawritescode/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# A long, long time ago, in a galaxy far, far away...
+an expertly skilled and brilliantly minded medical laboratory technician found herself out of work.  Though in the midst of a global pandemic, it seems our heroine was overly experienced to find a possition amongst the newly graduated (and thus willing to work for a pittance) influx of scientists.
+## So what did she do?
+Fear not, dear reader, for our heroine is no ingénue, but a practical woman of science! 
+### But, seriously, what did she do?
+Ok, I'll tell you...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- She talked to her mother, but that was no use.  
+All her mother did was criticise her for not being a doctor already and suggest that she might rectify that, preferably sooner rather than later, because "you are getting very old now, sweetie!"
+- She talked to her friends, all of who are either scientist, doctors or programmers.
+  - The scientist rubbed their chins, but had no suggestions.
+  - The doctors sided with her mother, _naturally_.
+  - And the programmers suggested that she try **coding**!
 
-### Markdown
+# "I can't code!"
+She bemoaned and began listing the reasons why this was a stupid idea:
+1. She has zero experience of anything outside of MS Office and the internet.
+2. She had long ago come to an understanding with computers that they would leave eachother well alone.
+3. Sitting for long periods of time at a desk would be _the worst thing ever!_
+4. Programming was the sort of "nothing job" that people in "Carpet Land" were paid too highly for and wasn't as "essential" as she was used to being.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+But secretly **She was just scared**
+5. She was used to being _The Very Best at Everything_ when it came to medical microbiology and knew she would have to start again. Level 1: Noob.
 
-```markdown
-Syntax highlighted code block
+## What Changed?
+A programmer, edit: Engineering Lead, friend of our heroine saw an email at work. The very nice people at [The Coders Guild](https://thecodersguild.org.uk/) were running a free JAMStack course, perfect for luddite like her! So he signed her up, offering his support and the promise of cake upon completion.
 
-# Header 1
-## Header 2
-### Header 3
+### **The Cake is a Lie!**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivanawritescode/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Lies](https://external-preview.redd.it/RmhO3xKL3WQhbRaLLpNmWUSf26-WCtTzkJQEgUS2sa0.jpg?auto=webp&s=90c4a2fcd2f0ff6601f3390f39af7e48a32c286b)
